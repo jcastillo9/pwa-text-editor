@@ -6,7 +6,7 @@ This project was worked on collectively in class and approved to submit by my in
   * [Acceptance Criteria](#acceptance-criteria)
   * [Technologies Used](#technologies-used)
   * [Installation](#installation)
-  * [Questions/Contributions](#questions/contributions)
+  * [Contributions](#contributions)
   * [License](#license)
 
 ## User Story
@@ -49,7 +49,7 @@ As a developer, I want to create notes or code snippets with or without an inter
 
  <img src="assets/images/ScreenShot.png"/>
  
- ## Questions/Contributions:
+ ## Contributions:
  ### Reach me here:
 
   * Github: <https://github.com/jcastillo9>
