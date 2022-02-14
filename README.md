@@ -49,7 +49,7 @@ As a developer, I want to create notes or code snippets with or without an inter
 
  <img src="assets/images/ScreenShot.png"/>
  
- ## Questions & Contributions:
+ ## Questions/Contributions:
  ### Reach me here:
 
   * Github: <https://github.com/jcastillo9>
