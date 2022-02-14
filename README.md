@@ -45,7 +45,7 @@ As a developer, I want to create notes or code snippets with or without an inter
   * webpack
 
 ## Installation
-  [Link to Deployed Application]()
+  [Link to Deployed Application](https://jc-just-another-text-editor.herokuapp.com)
 
  <img src="assets/images/ScreenShot.png"/>
  
